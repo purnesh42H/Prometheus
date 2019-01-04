@@ -1,5 +1,5 @@
 # Prometheus
-a web forum using ASP.Net and JavaScript for students to share study materials and exchange ideas over FTP.
+A web forum using ASP.Net and JavaScript for students to share study materials and exchange ideas over FTP.
 
 1) Forum provides separate space for each user and allows them to view and download other user's public documents.
 
